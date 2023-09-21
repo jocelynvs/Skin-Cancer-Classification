@@ -1,4 +1,4 @@
-# Skin Cancer Classification using Deep Learning
+# Skin Cancer Classification
 
 ## Uses Deep Learning (Graph Convolutional Network) combined with Delaunay Triangulation Method to classify types of skin cancer
 ### Data Source: https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic
