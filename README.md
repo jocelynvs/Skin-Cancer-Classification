@@ -19,4 +19,5 @@ Evaluate the model based on Accuracy and Loss
 - Generate Delaunay points for testing data
 - Classify using the best model
 
-#### For better understanding, view the above code and file report (Skin_Cancer_Classification.pdf).
+#### For better understanding, view the above code and my journal publication.
+### Publication: https://thesai.org/Publications/ViewPaper?Volume=14&Issue=6&Code=IJACSA&SerialNo=85
